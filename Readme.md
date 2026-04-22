@@ -96,4 +96,5 @@ AI (Whisper) converts unstructured audio into structured timestamps, which are t
 ## 👨‍💻 Author
 
 Aditya Yadav
+
 Gauri Dadhich
